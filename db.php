@@ -1,7 +1,7 @@
 <?php
 $servername = "db";
-$username = "root"; // Altere se necessário
-$password = ""; // Altere se necessário
+$username = "eros"; // Altere se necessário
+$password = "mydba"; // Altere se necessário
 $dbname = "crud_ids";
 
 $conn = new mysqli($servername, $username, $password, $dbname);

@@ -1,5 +1,5 @@
 <?php
-$servername = "crud_app_db";
+$servername = "db";
 $username = "root"; // Altere se necessário
 $password = ""; // Altere se necessário
 $dbname = "crud_ids";
